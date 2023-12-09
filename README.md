@@ -1,6 +1,6 @@
 # INDE 577 - Data Science & Machine Learning 
 
-![image](DataScience.jpeg)
+![image](DataScience.jpg)
 
 ## Final Project Fall 2023
 
