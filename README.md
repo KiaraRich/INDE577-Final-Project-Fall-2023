@@ -16,7 +16,6 @@
 
   **Computational and Applied Mathematics Examples**:
     - The Advanced Pendulum
-    
     - Runge-Kutta Methods
     - Image Compression
     - Neural Network
