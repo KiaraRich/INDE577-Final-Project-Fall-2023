@@ -1,5 +1,7 @@
 # INDE 577 - Data Science & Machine Learning 
 
+![image](FrontPicture.png)
+
 ## Final Project Fall 2023
 
 ### Student: Kiara A. Richardson
