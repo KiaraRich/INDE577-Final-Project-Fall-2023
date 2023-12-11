@@ -1,4 +1,6 @@
-# Introduction to the Data Science Foundations Folder
+# Data Science Foundations
+
+![image](DataScience.jpg)
 
 Welcome to the basics! Data science is a multidisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data. The foundation of data science involves several key components. This folder covers some of them.
 
